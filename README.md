@@ -14,8 +14,8 @@ res = ga.results_
 
 ## Example
 
-- 二元函数: $\ f(x,y) = x^{2}-2x+y^{2}-1$  求最小值。[点击样例](https://github.com/XuJiaCheng1993/genetic-algorithm-python/blob/master/simple_example.py)
-- 用于SVM的特征选择。[点击样例](https://github.com/XuJiaCheng1993/genetic-algorithm-python/blob/master/example_for_feature_selection.py)
+- 二元函数: $\ f(x,y) = x^{2}-2x+y^{2}-1$  求最小值。[点击样例](https://github.com/XuJiaCheng1993/genetic-algorithm-python/blob/master/demo_simple_ga.py)
+- 用于SVM的特征选择。[点击样例](https://github.com/XuJiaCheng1993/genetic-algorithm-python/blob/master/demo_modelparam_ga.py)
 
 ## Installation
 
