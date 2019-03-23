@@ -1,3 +1,7 @@
+## 最新更新
+万物皆对象的思路重写了遗传算法，新的遗传算法为PyGene,基本的接口与之前一致。
+
+
 # genetic-algorithm-python
 
 - python 版本的遗传算法
