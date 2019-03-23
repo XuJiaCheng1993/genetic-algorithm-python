@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Gentics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6392">
-              <caret line="376" column="55" lean-forward="true" selection-start-line="376" selection-start-column="12" selection-end-line="376" selection-end-column="55" />
+              <caret line="376" column="55" selection-start-line="376" selection-start-column="12" selection-end-line="376" selection-end-column="55" />
               <folding>
                 <element signature="e#121#139#0" expanded="true" />
               </folding>
@@ -29,8 +29,8 @@
       <file leaf-file-name="PyGene.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyGene.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="401" column="33" lean-forward="true" selection-start-line="401" selection-start-column="33" selection-end-line="401" selection-end-column="33" />
+            <state relative-caret-position="6817">
+              <caret line="401" column="33" selection-start-line="401" selection-start-column="33" selection-end-line="401" selection-end-column="33" />
               <folding>
                 <element signature="e#118#136#0" expanded="true" />
               </folding>
@@ -41,7 +41,7 @@
       <file leaf-file-name="demo_simple_ga.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo_simple_ga.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
+            <state>
               <folding>
                 <element signature="e#121#207#0" expanded="true" />
               </folding>
@@ -52,7 +52,7 @@
       <file leaf-file-name="demo_modelparam_ga.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo_modelparam_ga.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="1921">
               <caret line="113" selection-start-line="113" selection-end-line="113" selection-end-column="66" />
               <folding>
                 <element signature="e#120#138#0" expanded="true" />
@@ -64,8 +64,8 @@
       <file leaf-file-name="demo_PyGene.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo_PyGene.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+            <state relative-caret-position="459">
+              <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
               <folding>
                 <element signature="e#119#137#0" expanded="true" />
               </folding>
@@ -111,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +123,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +250,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.34486735" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959327" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20057307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2034384" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.7208288" weight="0.5200573" />
@@ -268,27 +268,27 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20057307" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.7208288" weight="0.47636104" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37868163" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20057307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37868163" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.34486735" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.2791712" side_tool="true" visible="true" weight="0.24739583" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.7208288" weight="0.47636104" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.34486735" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +310,55 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gentics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6392">
+          <caret line="376" column="55" lean-forward="true" selection-start-line="376" selection-start-column="12" selection-end-line="376" selection-end-column="55" />
+          <folding>
+            <element signature="e#121#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyGene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6817">
+          <caret line="401" column="33" lean-forward="true" selection-start-line="401" selection-start-column="33" selection-end-line="401" selection-end-column="33" />
+          <folding>
+            <element signature="e#118#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_simple_ga.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#121#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_modelparam_ga.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" selection-start-line="113" selection-end-line="113" selection-end-column="66" />
+          <folding>
+            <element signature="e#120#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_PyGene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+          <folding>
+            <element signature="e#119#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gentics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3213">
@@ -435,7 +484,7 @@
     <entry file="file://$PROJECT_DIR$/Gentics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6392">
-          <caret line="376" column="55" lean-forward="true" selection-start-line="376" selection-start-column="12" selection-end-line="376" selection-end-column="55" />
+          <caret line="376" column="55" selection-start-line="376" selection-start-column="12" selection-end-line="376" selection-end-column="55" />
           <folding>
             <element signature="e#121#139#0" expanded="true" />
           </folding>
@@ -444,7 +493,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_modelparam_ga.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="1921">
           <caret line="113" selection-start-line="113" selection-end-line="113" selection-end-column="66" />
           <folding>
             <element signature="e#120#138#0" expanded="true" />
@@ -454,7 +503,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_simple_ga.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
+        <state>
           <folding>
             <element signature="e#121#207#0" expanded="true" />
           </folding>
@@ -463,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyGene.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="401" column="33" lean-forward="true" selection-start-line="401" selection-start-column="33" selection-end-line="401" selection-end-column="33" />
+        <state relative-caret-position="6817">
+          <caret line="401" column="33" selection-start-line="401" selection-start-column="33" selection-end-line="401" selection-end-column="33" />
           <folding>
             <element signature="e#118#136#0" expanded="true" />
           </folding>
@@ -473,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_PyGene.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        <state relative-caret-position="459">
+          <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
           <folding>
             <element signature="e#119#137#0" expanded="true" />
           </folding>

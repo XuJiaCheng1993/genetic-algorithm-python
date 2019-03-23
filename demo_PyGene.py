@@ -44,7 +44,7 @@ def fitness_function(chrome, *args, **kwargs ):
 
     score, _ = SVMCV(clf, X, kwargs['y'], kwargs['n_kf'])
 
-    # 以kl散度值作为适应度函数
+    # 以1-AUC值作为适应度函数
     loss = 1 - roc_auc_score(kwargs['y'], score)
     return loss
 
@@ -54,11 +54,11 @@ n_kf = 5
 ## 生成特征
 X, y = make_classification(n_samples=100, n_informative=5, n_redundant=1, random_state=223, n_features=n_features)
 
-chrome_paramts = [(n_features, None),
-                  (8, [0.0, 2.99]),
-                  (12, [0.5, 5.0]),
-                  (12, [0.5, 5.0]),
-                  [8, [0, 10]]]
+chrome_paramts = [(n_features, None), # 第1号染色体, 挑选特征
+                  (8, [0.0, 2.99]), # 第2号染色体， kernel
+                  (12, [0.5, 5.0]), # 第3号染色体, C
+                  (12, [0.5, 5.0]), # 第4号染色体, gamma
+                  [8, [0, 10]]] # 第5号染色体, random_state
 
 Aga = AdaptiveGeneticAlgorithm(population_num=20, chrome_kws=chrome_paramts, top_n=10)
 Aga.set_evolute_params(dict(pm1=0.2, pm2=0.01))
